@@ -1,0 +1,37 @@
+{
+  "name": "onedionys-event-emitter",
+  "version": "1.0.0",
+  "description": "One Dionys (Event Emitter) - Packages to implement the Observer pattern, enabling communication between application components.",
+  "main": "src/EventEmitter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-event-emitter.git"
+  },
+  "keywords": [
+    "onedionys",
+    "event-emitter"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-event-emitter/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-event-emitter#readme",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-date-languange": "^2.0.0",
+    "onedionys-number-languange": "^2.0.0",
+    "onedionys-shop-builder": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
