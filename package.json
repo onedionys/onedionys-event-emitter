@@ -1,6 +1,6 @@
 {
   "name": "onedionys-event-emitter",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "One Dionys (Event Emitter) - Packages to implement the Observer pattern, enabling communication between application components.",
   "main": "src/EventEmitter.js",
   "directories": {
